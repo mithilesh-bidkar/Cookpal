@@ -12,11 +12,10 @@ The project is made using tech stacks: HTML, CSS, JavaScript.
 * Responsive Design: The website is fully responsive on desktop and mobile devices. It also includes a drawer for the mobile screen.
 
 # ScreenShots:
-![Home](https://github.com/shubhambharti4716/Cookpal/assets/107488607/b47d4c2d-834f-470a-aa6c-dd767f88ec56)
+![Home](https://github.com/mithilesh-bidkar/Cookpal/assets/107488607/b47d4c2d-834f-470a-aa6c-dd767f88ec56)
 
-![Dishes](https://github.com/shubhambharti4716/Cookpal/assets/107488607/21c05151-ce8c-4be0-aa22-ff85d08f38a0)
+![Dishes](https://github.com/mithilesh-bidkar/Cookpal/assets/107488607/21c05151-ce8c-4be0-aa22-ff85d08f38a0)
 
-![About](https://github.com/shubhambharti4716/Cookpal/assets/107488607/8ee6990e-8772-4095-bc9f-beab04842738)
+![About](https://github.com/mithilesh-bidkar/Cookpal/assets/107488607/8ee6990e-8772-4095-bc9f-beab04842738)
 
 
-## Note: This project does not use any external libraries
